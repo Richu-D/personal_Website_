@@ -1,2 +1,2 @@
-crm_key=7777
-crm_doomsday=false
+crm_key=7778
+crm_doomsday=true
